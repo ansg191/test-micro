@@ -1,8 +1,8 @@
 package main
 
 import (
-	"helloworld/handler"
-	pb "helloworld/proto"
+	"github.com/ansg191/test-micro/helloworld/handler"
+	pb "github.com/ansg191/test-micro/helloworld/proto"
 
 	"github.com/micro/micro/v3/service"
 	"github.com/micro/micro/v3/service/logger"

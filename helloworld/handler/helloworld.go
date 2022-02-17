@@ -5,7 +5,7 @@ import (
 
 	log "github.com/micro/micro/v3/service/logger"
 
-	helloworld "helloworld/proto"
+	helloworld "github.com/ansg191/test-micro/helloworld/proto"
 )
 
 type Helloworld struct{}
