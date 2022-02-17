@@ -1,4 +1,4 @@
-module github.com/ansg191/test-micro/helloworld
+module github.com/ansg191/test-micro/live
 
 go 1.15
 
